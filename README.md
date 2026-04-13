@@ -1,7 +1,3 @@
-Perfect Dhuru 🔥 — here is your **FINAL polished README.md** with your actual metrics + strong explanation (ready to copy & paste to GitHub)
-
----
-
 # 🩺 Diabetes Prediction using Logistic Regression
 
 ---
@@ -161,10 +157,10 @@ The dataset contains the following features:
 ## 📷 Model Output
 
 ### 🔹 Before Threshold Tuning
-<img src="https://i.postimg.cc/SKc7WzNZ/cm-before-updating-threshold.png" width="400">
+<img src="https://i.postimg.cc/SKc7WzNZ/cm-before-updating-threshold.png" width="500">
 
 ### 🔹 After Threshold Tuning
-<img src="https://i.postimg.cc/3xvgTDp5/cm-after-updating-threshold.png" width="400">
+<img src="https://i.postimg.cc/3xvgTDp5/cm-after-updating-threshold.png" width="500">
 
 ---
 
