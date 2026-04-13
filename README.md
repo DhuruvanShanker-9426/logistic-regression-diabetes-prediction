@@ -157,10 +157,10 @@ The dataset contains the following features:
 ## 📷 Model Output
 
 ### 🔹 Before Threshold Tuning
-<img src="https://i.postimg.cc/SKc7WzNZ/cm-before-updating-threshold.png" width="500">
+<img src="https://i.postimg.cc/SKc7WzNZ/cm-before-updating-threshold.png" width="600">
 
 ### 🔹 After Threshold Tuning
-<img src="https://i.postimg.cc/3xvgTDp5/cm-after-updating-threshold.png" width="500">
+<img src="https://i.postimg.cc/6QCgyqsN/cm-after-updating-threshold.png" width="600">
 
 ---
 
