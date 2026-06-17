@@ -16,7 +16,7 @@ The model is trained on the **Pima Indians Diabetes Dataset**, a widely used dat
 * Perform Exploratory Data Analysis (EDA)
 * Clean and preprocess real-world data
 * Evaluate model performance using multiple metrics
-* Improve model performance using threshold tuning
+* Improve model performance using threshold tuning.
 
 ---
 
