@@ -27,7 +27,7 @@ The model is trained on the **Pima Indians Diabetes Dataset**, a widely used dat
 * NumPy
 * Matplotlib
 * Seaborn
-* Scikit-learn
+* Scikit-learn.
 
 ---
 
